@@ -1,0 +1,23 @@
+{
+  "name": "paypal-v2",
+  "version": "1.0.0",
+  "description": "NodeJs wrapper for paypal payment gateway v2 REST api #paypal",
+  "main": "paypal.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gotocva/node-paypal-v2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gotocva/node-paypal-v2/issues"
+  },
+  "homepage": "https://github.com/gotocva/node-paypal-v2#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "request": "^2.88.0"
+  }
+}
